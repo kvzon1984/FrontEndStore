@@ -306,3 +306,8 @@ header {
     cursor: pointer;
     background-color: var(--secundarioOscuro);
 }
+
+.formulario__opcion {
+    text-transform: uppercase;
+    color: var(--negro);
+}
